@@ -1,4 +1,4 @@
-//software was coded by GK
+//software was coded by Kiran Kumar Gali
 
 //published under GNU open source, feel free to modify/change
 
